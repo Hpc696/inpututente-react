@@ -1,9 +1,10 @@
+import Form from "./Form";
 
 function App() {
   return (
-    <div>
-      Happy Hacking!
-    </div>
+   
+    
+    <Form/>
   );
 }
 
